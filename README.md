@@ -7,8 +7,6 @@ This repository contains processed 311 request data, along with physical and soc
 
 <I>Add a citation here when published</I>  Add a PDF version here when published
 
-
-<br />
 <br />
 
 <p align="center">
