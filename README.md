@@ -16,7 +16,6 @@ This repository contains processed 311 request data, along with physical and soc
 <br />
 Figure 1. An overview of the study design. (a) RQ1; (b) RQ2.
 </p>
-<br />
 
 ### Repository organization
 
